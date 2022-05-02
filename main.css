@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+#easternlogo {
+    width: auto;
+    height: 50px;
+}
+
+i {
+    color: white;
+    font-size: 30px;
+}
+
+.foot {
+    background-color: rgb(82, 41, 41);
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
